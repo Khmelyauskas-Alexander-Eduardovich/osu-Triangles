@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 79.374998 79.375"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="рисунок.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9729351"
+     inkscape:cx="118.60502"
+     inkscape:cy="151.80428"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.0123619"
+       y="-0.011658687"
+       width="1.0247238"
+       height="1.0233174">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.2097265"
+         id="feGaussianBlur2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="display:none;opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:0.32;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       d="M 0,0 V 79.374999 L 79.374999,0 Z"
+       id="path1" />
+    <rect
+       style="fill:#6725be;stroke-width:0.32;stroke-linejoin:bevel;paint-order:markers stroke fill;fill-opacity:1"
+       id="rect1"
+       width="79.375"
+       height="79.375"
+       x="0"
+       y="0" />
+    <g
+       id="g2-6"
+       transform="translate(2.9131709,4.7297406)"
+       style="fill:#000000;fill-opacity:1;opacity:0.15;filter:url(#filter2)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0.143721;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="M 47.455444,24.242134 37.125242,44.085884 H 57.383329 Z"
+         id="path2-1-8"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0.287442;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 37.326401,14.320259 -20.660406,39.6875 h 40.516174 z"
+         id="path2-8-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0718605;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="M 44.852601,47.57165 39.6875,57.493525 h 10.129043 z"
+         id="path2-1-2-7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0718605;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 42.390922,29.203071 -5.165101,9.921875 h 10.129043 z"
+         id="path2-1-2-2-6"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.143721;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="M 27.197358,24.242134 16.867155,44.085884 H 37.125242 Z"
+         id="path2-18"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <rect
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke-width:0.32;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       id="rect2"
+       width="79.375"
+       height="39.6875"
+       x="0"
+       y="39.6875" />
+    <g
+       id="g2"
+       transform="translate(2.6628375,3.7806075)">
+      <path
+         style="fill:#fa8d00;fill-opacity:1;stroke-width:0.143721;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="M 47.455444,24.242134 37.125242,44.085884 H 57.383329 Z"
+         id="path2-1"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#e3b909;fill-opacity:1;stroke-width:0.287442;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 37.326401,14.320259 -20.660406,39.6875 h 40.516174 z"
+         id="path2-8"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#13b52d;fill-opacity:1;stroke-width:0.0718605;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="M 44.852601,47.57165 39.6875,57.493525 h 10.129043 z"
+         id="path2-1-2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#e3000a;fill-opacity:1;stroke-width:0.0718605;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 42.390922,29.203071 -5.165101,9.921875 h 10.129043 z"
+         id="path2-1-2-2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="opacity:1;fill:#0040ff;fill-opacity:1;stroke-width:0.143721;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="M 27.197358,24.242134 16.867155,44.085884 H 37.125242 Z"
+         id="path2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+</svg>
