@@ -1,4 +1,5 @@
 # osu! Triangles
+![photo_2025-11-12_22-20-58](https://github.com/user-attachments/assets/a531bb5e-20bb-41d6-ad88-e9046809856b)
 
 QML/Qt Rendition of Dean Herbert "Peppy's" osu! Triangles. See moving up random triangles
 
