@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=osu! Triangles
+Name[Ru]=Треугольники Осу!
+Exec=qmlscene %U qml/Main.qml
+Icon=assets/osu!Triangles.svg
+X-Lomiri-Splash-Image=assets/osuTriangles_Splash.img
+X-Lomiri-Splash-Color=#333333
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true
